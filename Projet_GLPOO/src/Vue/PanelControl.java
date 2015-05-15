@@ -197,6 +197,7 @@ public class PanelControl extends JPanel implements ActionListener{
 			this.remove(emplacementPiece);
 			worker.getPieces().get(numPiece).setRotation(angle);
 			currentPieces.get(numPiece).setRotation(angle);
+			
 			emplacementPiece= new LabelEmplacementPiece(currentPieces.get(numPiece));
 			reDrawPanel();
 			parentFenetre.reDrawPanel();
