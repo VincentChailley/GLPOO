@@ -1,0 +1,17 @@
+P id_piece;id_forme_nord;id_forme_est;id_forme_sud;id_forme_ouest
+P 1;N;V;V;N
+P 2;N;J;V;V
+P 3;N;J;R;J
+P 4;N;N;J;J
+P 5;V;V;J;N
+P 6;V;B;V;V
+P 7;R;J;V;B
+P 8;J;N;J;J
+P 9;J;R;R;N
+P 10;V;R;R;R
+P 11;V;B;B;R
+P 12;J;N;B;B
+P 13;R;R;N;N
+P 14;R;J;N;R
+P 15;B;B;N;J
+P 16;B;N;N;B
